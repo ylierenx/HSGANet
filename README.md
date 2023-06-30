@@ -38,6 +38,10 @@ South China University of Technology
         
 (8) The train_tvc_12phase.py file is the training code
 
+# Check_point_path
+
+The Google Drive link of the model:(https://drive.google.com/drive/folders/1bguwJahESn7DYA668-NkzIS2rML_Y6I0)
+
 ## Citation
 
 If you find the code helpful in your resarch or work, please cite the following papers.
